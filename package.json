@@ -1,0 +1,26 @@
+{
+  "name": "isprime_or_isamstrong",
+  "version": "1.0.0",
+  "description": "A simple package to check if a number is prime or Amstrong",
+  "main": "isPrimeOrisAmstrong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsh-gupta101/test-npm-isPrime-isAmstrong.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Prime",
+    "number",
+    "Amstrong",
+    "number"
+  ],
+  "author": "Adarsh-gupta101",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarsh-gupta101/test-npm-isPrime-isAmstrong/issues"
+  },
+  "homepage": "https://github.com/adarsh-gupta101/test-npm-isPrime-isAmstrong#readme"
+}
